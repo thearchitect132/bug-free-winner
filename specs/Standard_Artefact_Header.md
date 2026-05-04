@@ -1,4 +1,4 @@
-# LoI Architect Blueprint
+# Standard Artefact Header
 
 > Status: Stub  
 > This file is intentionally minimal.  
