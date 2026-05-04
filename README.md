@@ -173,7 +173,7 @@ Nguyen, A. Deterministic Corpus Ingestion and Invariant‑Enforced Iterative Ref
 
 Patent prior‑art citation (suggested)
 
-A. Nguyen, “Deterministic Corpus Ingestion with Invariant‑Enforced Iterative Refinement,” publicly disclosed at https://github.com/thearchitect132/bug-free-winner/edit/main/README.md, May 2026.
+A. Nguyen, “Deterministic Corpus Ingestion with Invariant‑Enforced Iterative Refinement,” publicly disclosed at https://github.com/thearchitect132/bug-free-winner, May 2026.
 
 arXiv / IP.com
 The file docs/defensive_publication.md mirrors the formal disclosure text suitable for direct submission.
